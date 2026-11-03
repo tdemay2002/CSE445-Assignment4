@@ -41,6 +41,7 @@
     </NationalPark>
     
     <NationalPark Rating="4.6">
+        <Name>Everglade National Park</Name>
         <Name>Everglades National Park</Name>
         <Phone>305-242-7700</Phone>
         <Address NearestAirport="Miami International Airport">
@@ -49,10 +50,10 @@
             <City>Homestead</City>
             <State>FL</State>
             <Zip>33034</Zip>
+        </Address>
     </NationalPark>
 
     <NationalPark Rating="4.9">
-        <Name>Badland National Park</Name>
         <Name>Badlands National Park</Name>
         <Phone>605-433-5361</Phone>
         <Address NearestAirport="Rapid City Regional Airport">
@@ -61,7 +62,6 @@
             <City>Interior</City>
             <State>SD</State>
             <Zip>57750</Zip>
-        </Address>
     </NationalPark>
 
     <NationalPark>
